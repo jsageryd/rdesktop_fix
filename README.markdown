@@ -1,7 +1,7 @@
 rdesktop fix
 ============
 
-This is a workaround to have the AppGate client run rdesktop in fullscreen mode with Swedish keyboard through wrapping the rdesktop binary.
+This is a workaround to have the AppGate java client run rdesktop in fullscreen mode with Swedish keyboard layout on Ubuntu through wrapping the rdesktop binary.
 
 Usage
 ------------------
@@ -11,4 +11,4 @@ Usage
 
 Disclaimer
 ------------------
-I take no responsibility for this program should it cause any harm.
+I take no responsibility for this should it cause any harm.
