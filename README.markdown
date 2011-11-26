@@ -5,9 +5,7 @@ This is a workaround to have the AppGate java client run rdesktop in fullscreen 
 
 Usage
 ------------------
-1. sudo mv (this directory) /usr/bin/rdesktop_
-2. sudo mv /usr/bin/rdesktop /usr/bin/rdesktop_/
-3. sudo ln -s /usr/bin/rdesktop_/start.sh /usr/bin/rdesktop
+1. Put rdesktop in /usr/local/bin/
 
 Disclaimer
 ------------------
